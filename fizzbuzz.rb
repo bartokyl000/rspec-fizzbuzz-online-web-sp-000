@@ -9,3 +9,4 @@ def fizzbuzz
     else
     puts int
       end
+    end
