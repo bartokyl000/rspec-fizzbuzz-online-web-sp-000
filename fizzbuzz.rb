@@ -8,5 +8,5 @@ def fizzbuzz
     puts "Fizz"
     else
     puts int
-      end
-    end
+    
+    
